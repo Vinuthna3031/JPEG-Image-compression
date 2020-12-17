@@ -1,8 +1,8 @@
 # JPEG-Image-compression
 This image compression is implemented using DCT and quantisation.
 Steps inolved are-
->> RGB to YCbCr conversion
->> Chroma downsampling
+ RGB to YCbCr conversion
+ Chroma downsampling
 >> Discrete Cosine Transform
 >> Quantisation
 >> Zigzag scan
